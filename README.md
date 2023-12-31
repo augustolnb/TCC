@@ -1,7 +1,7 @@
 # TCC
 O projeto de TCC proposto tem como objetivo automatizar e realizar o controle de acesso ao espaço do laboratório de práticas anônimas (LPA) do IFTO - Campus Palmas
 
-##Resumo
+## Resumo
 
 O projeto concentra suas investigações na concepção de uma solução automatizada
 que aborde as tecnologias da Internet das Coisas (IoT) e na elaboração de um sistema
